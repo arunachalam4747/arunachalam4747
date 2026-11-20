@@ -1,16 +1,53 @@
-## Hi there 👋
+👋 Hi, I'm a Python Full Stack Developer!
 
-<!--
-**arunachalam4747/arunachalam4747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about building responsive web applications and scalable backend systems.
 
-Here are some ideas to get you started:
+🚀 I work with Python, frontend technologies, databases, and modern development tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack & Skills
+👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript" />
+</p>
+
+🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind" />
+</p>
+
+⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" />
+</p>
+
+🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
+</p>
+
+🔧 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+</p>
+
+📊 GitHub Statistics
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+🌐 Connect With Me
+💼 LinkedIn: Add your LinkedIn URL
+📧 Email: Add your email
+🐙 GitHub: My GitHub
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories.
